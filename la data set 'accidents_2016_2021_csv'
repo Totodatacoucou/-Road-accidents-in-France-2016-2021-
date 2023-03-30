@@ -1,0 +1,29 @@
+la data set 'accidents_2016_2021_csv', accidents routière en France, contient 4 fichiers x 6 ans = 24 fichers.
+les 4 fichiers sont : 
+1. La rubrique CARACTERISTIQUES qui décrit les circonstances générales de l’accident
+2. La rubrique LIEUX qui décrit le lieu principal de l’accident même si celui-ci s’est déroulé à une
+intersection
+3. La rubrique VEHICULES impliqués
+4. La rubrique USAGERS impliqués
+
+Le voulume de ce fichier est tellement gigantesque que le guithub n'accepte pas le telechagment.
+Pour cette raison, je vous invite, de visiter le site de open data .gouv.fr où vous pouvez trouver et télécharger ou consultes ces ficher
+
+De mon côté j'ai regroupé tous ces fichiers dans un big data set et j'ai fait tout le nettoyage nécessaire des données héronnées, mauncantes, ou différents formats 
+deponds d'une anée à l'autre...
+
+
+
+The data set 'accidents_2016_2021_csv', road accidents in France, contains 4 files x 6 years = 24 files.
+the 4 files are:
+1. The CHARACTERISTICS section which describes the general circumstances of the accident
+2. The PLACES section, which describes the main place of the accident, even if it took place at a
+intersection
+3. The VEHICLES involved section
+4. The USERS involved section
+
+The size of this file is so gigantic that the guithub does not accept the download.
+For this reason, I invite you to visit the open data .gouv.fr site where you can find and download or consult these files.
+
+For my part, I grouped all these files in a big data set and I did all the necessary cleaning of heroned, mauncated data, or different formats
+depends from year to year...
